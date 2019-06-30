@@ -1,13 +1,13 @@
 ---
 type: introduction
 page: tshirt
-locale: en-US
+locale: ru
 ---
 
-## Support the survey and look good in the process!
+## Поддержи исследование и выгляди круто!
 
-A quick announcement before the survey results. This year we're trying something new to finance our efforts: we're releasing our very own **🎈🎉👕 State of CSS T-shirt 👕🎉🎈**!
+Небольшое объявление перед результатами исследования. В этом году мы пробуем кое-что новое, чтобы профинансировать наши старания: мы выпускаем нашу собственную **🎈🎉👕 State of CSS футболку 👕🎉🎈**!
 
-What makes this shirt truly special is that it's the only piece of clothing that also **teaches you practical, real-world CSS techniques**.
+Эта футболка специальная, потому что она -  единственная вещь, которая **учит практическим, реальным CSS техникам**.
 
-So whether you're going to a conference, a job interview, or just work, this shirt will demonstrate your CSS mastery like no other garment can!
+Идёшь ли ты на конференцию, на интервью, или просто на работу, это футболка покажет твоё CSS-мастерство, чего не сможет сделать ни одна другая вещь.

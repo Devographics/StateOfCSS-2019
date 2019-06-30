@@ -1,4 +1,4 @@
-locale: en-US
+locale: ru
 translations:
 
     ###########################################################################
@@ -6,20 +6,19 @@ translations:
     ###########################################################################
 
     - key: tshirt.about
-      t: About the T-shirt
+      t: О футболке
     - key: tshirt.description
       t: >
-          The shirt features the State of CSS logo along with snippets of the actual CSS
-          code used to create each shape. Who knows, you might learn a thing or two!
+          Основа этой футболки - State of CSS логотип, а также куски реального CSS кода, 
+          использовавшегося для создания каждой фигуры. Возможно, ты выучишь пару свойств.
 
 
-          We use a high-quality, super-soft tri-blend shirt with a slim fit. This shirt
-          sizes small, so if you prefer a looser fit **we recommend ordering one size up from what you
-          usually wear** (I'm wearing an M in the photos).
+          Мы используем высококачественные, мягкие, узкие футболки. Эти футболки - маломерки, **поэтому 
+          рекомендуем заказывать футболку на размер больше обычной** (На фото на мне футболка размера M)
     - key: tshirt.getit
-      t: Get It
+      t: Купить
     - key: tshirt.price
-      t: $${price} + shipping
+      t: $${price} + отправка
 
     ###########################################################################
     # Demographics

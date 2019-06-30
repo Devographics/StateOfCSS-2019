@@ -1,6 +1,9 @@
 - locale: en-US
   path: default
   label: English
+- locale: ru
+  path: ru
+  label: Russian
 # - locale: fr-FR
 #   path: fr
 #   label: Français
