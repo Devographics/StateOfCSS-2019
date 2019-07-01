@@ -1,45 +1,45 @@
 ---
 type: introduction
 page: introduction
-locale: en-US
+locale: ru
 ---
 
-<span class="first-letter">I</span>n the web development family, JavaScript has developed a bit of a reputation as the angry, rebellious teenager going through a new phase every year and telling you you're just too old to understand. CSS on the other hand has always been the studious, well-behaved kid who always stays polite and never makes a rash decision. 
+<span class="first-letter">В</span> семействе веб-технологий JavaScript имеет репутацию сердитого бунтаря-подростка, который ежегодно проходит через новые фазы, а тебя просто считает слишком старым, чтобы понять. CSS, с другой стороны, всегда был старательным, благонравным ребёнком, который ведёт себя вежливо и никогда не принимает опрометчивых решений.
 
-But don't take things for granted: despite being over 20 years old, there's signs that CSS might be going through the same tumultuous teenage years that JavaScript just went through. Flexbox! Grid! CSS-in-JS! In 2019, CSS is finally dyeing its hair pink and getting a tattoo just like it's always secretly wanted. 
+Однако не стоит принмать это как должное: хоть ему и 20 лет, есть ощущение, что CSS проходит через те же буйные подростковые годы, через которые только что прошёл JavaScript. Flexbox! Grid! CSS-in-JS! В 2019 году CSS наконец красит волосы в розовый и делает тату, ведь в тайне он так этого хотел!
 
-Parenting books won't help much with this one, but that's where we come in: we've surveyed over 10,000 developers in this first ever State of CSS survey. So join us to find out which CSS features are used the most, which tools are gaining adoption, and much more.
+Книги для родителей особо не помогут, но тут появляемся мы: мы опросили более 10,000 разоаботчиков в первом из когда-либо существовавших исследовании State of CSS.
 
-### Team
+### Команда
 
-The State of CSS Survey is created and maintained by:
+Исследование State of CSS создано и поддерживается:
 
-- [Sacha Greif](https://twitter.com/sachagreif) (me!): Design, writing, coding
-- [Raphaël Benitte](https://twitter.com/benitteraphael): Data analysis, data visualizations
+- [Sacha Greif](https://twitter.com/sachagreif) (мной!): Дизайн, текст, код
+- [Raphaël Benitte](https://twitter.com/benitteraphael): Анализ данных и их визуализация
 
-Be sure to check out my React/GraphQL JavaScript framework, [Vulcan.js](http://vulcanjs.org), as well as Raphaël's React data visualization library [nivo](https://nivo.rocks).
+Не пропусти мой React/GraphQL JavaScript фрэймворк [Vulcan.js](http://vulcanjs.org), а также React библиотеку для визуализации данных [nivo](https://nivo.rocks), созданную Raphaël.
 
-### Download Our Data (coming soon)
+### Данные исследования можно загрузить (доступно скоро)
 
-You can [download the raw JSON data for this survey](https://www.kaggle.com/sachag/state-of-css-2019). Let us know if you end up making your own data visualizations!
+Ты можешь [загрузить необработанные данные исследования](https://www.kaggle.com/sachag/state-of-css-2019). Дай знать, если сделаешь собственную визаулизацию!
 
-### Completion Percentages
+### Процент покрытия 
 
-Because all survey questions could be skipped, some questions ended up with fewer answers than others. So we've added a small pie chart indicator to each question to let you know which proportion of total respondents answered it.  
+Так как любой вопрос исследования мог быть пропущен, некоторые вопросы получили меньше ответов, чем остальные. По этой причине мы добавили маленькие круговые диаграммы к каждому вопросу, чтобы ты мог понять, какая часть всех респондентов ответила на него.
 
-### Other Links
+### Ещё ссылки
 
-- [State of CSS Homepage](https://stateofcss.com)
+- [Домашняя страница State of CSS](https://stateofcss.com)
 - [State of JS](https://stateofjs.com)
 
-### Thanks
+### Благодарности
 
-Special thanks to [Florian Rivoal](https://twitter.com/frivoal) for his huge help coming up with survey questions, as well as [David Luhr](https://luhr.co/) for his help with accessibility, and everybody else who took part in this process on GitHub. 
+Особая благодарность [Florian Rivoal](https://twitter.com/frivoal) за его невообразимую помощь с наработкой вопросов, [David Luhr](https://luhr.co/) за помощь с доступностю, а также всех остальных, кто принял участие в процессе на GitHub. 
 
-### Credits & Stuff
+### Пожелания и предложения?
 
-The site is set in IBM Plex Mono. Questions? Feedback? [Get in touch!](mailto:hello@stateofcss.com)
+На сайте используется шрифт IBM Plex Mono. Вопросы? Отзывы? [Get in touch!](mailto:hello@stateofcss.com)
 
-And now, let's see what CSS has been up to this year!
+И давайте наконец посмотрим, что происходило с CSS в этом году!
 
 <span class="conclusion__byline">– Sacha and Raphaël</span>
