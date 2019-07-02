@@ -698,51 +698,51 @@ translations:
 
     # pages
     - key: page.introduction
-      t: Introduction
+      t: Введение
     - key: page.tshirt
-      t: T-shirt
+      t: Футболка
     - key: page.demographics
-      t: Demographics
+      t: Демография
     - key: page.features
-      t: Features
+      t: Фичи
     - key: page.layout
-      t: Layout
+      t: Разметка
     - key: page.shapes-and-graphics
-      t: Shapes & Graphics
+      t: Формы и графика
     - key: page.interactions
-      t: Interactions
+      t: Интерактивность
     - key: page.typography
-      t: Typography
+      t: Типография
     - key: page.animations-and-transforms
-      t: Animations & Transforms
+      t: Анимация и преобразования
     - key: page.other-features
-      t: Other Features
+      t: Другое
     - key: page.units-and-selectors
-      t: Units & Selectors
+      t: Юниты и селекторы
     - key: page.technologies
-      t: Technologies
+      t: Технологии
     - key: page.pre-post-processors
-      t: Pre & Post Processors
+      t: Pre & Post Процессоры
     - key: page.css-frameworks
-      t: CSS Frameworks
+      t: CSS Фрэймворки
     - key: page.methodologies
-      t: Methodologies
+      t: Методологии
     - key: page.css-in-js
       t: CSS-in-JS
     - key: page.other-tools
-      t: Other Tools
+      t: Другие инструменты
     - key: page.environments
-      t: Environments
+      t: Окружения
     - key: page.resources
-      t: Resources
+      t: Ресурсы
     - key: page.opinions
-      t: Opinions
+      t: Мнения
     - key: page.awards
-      t: Awards
+      t: Награды
     - key: page.conclusion
-      t: Conclusion
+      t: Заключение
     - key: page.support
-      t: Support Us
+      t: Поддержи нас
 
     # sharing
     - key: share.share
