@@ -12,13 +12,14 @@ import CompletionIndicator from './CompletionIndicator'
 
 const BlockTitle = ({
     id,
+    title,
+    description: descriptionOverride,
     showDescription,
     isShareable,
     values,
-    title,
     units,
     setUnits,
-    completion,
+    completion
 }) => {
     const [showOptions, setShowOptions] = useState(false)
     const context = usePageContext()
@@ -28,9 +29,11 @@ const BlockTitle = ({
 
     let description = ''
     if (showDescription === true) {
-        description = getBlockDescription(id, context, translate, {
-            values
-        })
+        description =
+            descriptionOverride ||
+            getBlockDescription(id, context, translate, {
+                values
+            })
     }
     const meta = getBlockMeta(id, context, translate)
 
@@ -80,12 +83,14 @@ const BlockTitle = ({
 
 BlockTitle.propTypes = {
     id: PropTypes.string.isRequired,
+    title: PropTypes.node,
+    description: PropTypes.node,
     showDescription: PropTypes.bool.isRequired,
     isShareable: PropTypes.bool.isRequired,
     completion: PropTypes.shape({
         count: PropTypes.number.isRequired,
-        percentage: PropTypes.number.isRequired,
-    }),
+        percentage: PropTypes.number.isRequired
+    })
 }
 
 BlockTitle.defaultProps = {

@@ -29,16 +29,14 @@ export const query = graphql`
                         percentage
                     }
                 }
-                others {
-                    total
-                    completion {
-                        count
-                        percentage
-                    }
+                heatmap {
+                    id
+                    count
                     buckets {
                         id
                         count
-                        percentage
+                        absolute_percentage
+                        relative_percentage
                     }
                 }
             }

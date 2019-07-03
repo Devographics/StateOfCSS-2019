@@ -5,24 +5,26 @@ import ShareBlockDebug from '../share/ShareBlockDebug'
 
 const Block = ({
     id,
+    title,
+    description,
     showDescription,
     isShareable,
     className,
     values,
     children,
-    title,
     units,
     setUnits,
-    completion,
+    completion
 }) => {
     return (
         <div id={id} className={`Block${className !== undefined ? ` ${className}` : ''}`}>
             <BlockTitle
                 id={id}
+                title={title}
+                description={description}
                 showDescription={showDescription}
                 isShareable={isShareable}
                 values={values}
-                title={title}
                 units={units}
                 setUnits={setUnits}
                 completion={completion}
@@ -35,14 +37,16 @@ const Block = ({
 
 Block.propTypes = {
     id: PropTypes.string.isRequired,
+    title: PropTypes.node,
+    description: PropTypes.node,
     showDescription: PropTypes.bool.isRequired,
     isShareable: PropTypes.bool.isRequired,
     className: PropTypes.string,
     values: PropTypes.object,
     completion: PropTypes.shape({
         count: PropTypes.number.isRequired,
-        percentage: PropTypes.number.isRequired,
-    }),
+        percentage: PropTypes.number.isRequired
+    })
 }
 Block.defaultProps = {
     showDescription: true,

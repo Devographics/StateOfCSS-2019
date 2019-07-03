@@ -449,8 +449,8 @@ Bump Chart
     display: inline-block;
     background: $teal;
     color: $navy;
-    border-radius: 40px;
-    padding: 2px 8px;
+    border-radius: 15px;
+    padding: 0 12px;
     background: $color;
     @include font-bold;
 }
@@ -463,6 +463,12 @@ Bump Chart
 
 .text-pink {
     @include coloredText($pink);
+}
+.text-pink-light {
+    @include coloredText($pinkLight);
+}
+.text-pink-lighter {
+    @include coloredText($pinkLighter);
 }
 
 .text-teal {
