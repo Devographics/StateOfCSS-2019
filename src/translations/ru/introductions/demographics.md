@@ -1,13 +1,13 @@
 ---
 type: introduction
 section: demographics
-locale: en-US
+locale: ru
 ---
 
-This first ever State of CSS survey reached 11,307 people in 135 different countries. This obviously only represents a tiny part of the overall CSS developer community, but for a first edition we think it's pretty encouraging. 
+В этом, самом первом, исследовании State of CSS, было опрошено 11,307 человек из 135 стран. Очевидно, что это - лишь малая часть всего сообщества CSS разработчиков, но мы думаем, что для первого раза получилось довольно здорово.
 
-And it's fair to assume our survey audience leans a bit towards early adopters and the more cutting-edge part of the community, since they are the ones most likely to hear about a survey in the first place. But we like to think this also means our data is a good preview of where the mainstream side of the ecosystem will be a few years from now. 
+Справедливо предположить, что аудитория исследования - разработчики, склонные к использованию самого современного, так как именно они, с большей вероятностью, услышали бы об исследовании. И нам это нравится, ведь это значит, что наши данные показывают, где экосистема окажется через несколько лет.
 
-It's also worth mentioning that since a sizeable share of survey respondents learned about it through having previously filled out the [State of JS](https://stateofjs.com) survey, our data may also lean toward the “[back of the front-end](http://bradfrost.com/blog/link/how-to-think-like-a-front-end-developer-with-brad-frost/)”, in other words the more JavaScript-oriented part of the front-end world.
+Также стоит упомянуть, что ощутимая часть респондентов, узнавших об исследовании, до этого участвовали в исследовании [State of JS](https://stateofjs.com), а это значит, что данные также могут быть склонными к более [Javascript-ориентированной](http://bradfrost.com/blog/link/how-to-think-like-a-front-end-developer-with-brad-frost/) части фронтенд мира.
 
-All that being said, we still think there's a lot of very valuable insights in here, and we're very excited to finally be able to share them all with you!
+Учитывая всё сказанное, мы всё равно считаем, что исследование содержит много ценных инсайтов, и мы очень рады наконец получить возможность поделиться всем этим с вами.
