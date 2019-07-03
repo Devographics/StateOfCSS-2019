@@ -26,9 +26,9 @@ translations:
 
     # salary ranges
     - key: salary.none.long
-      t: I work for free
+      t: Я работаю бесплатно
     - key: salary.none.short
-      t: work for free
+      t: Работаю бесплатно
     - key: salary.0_10.long
       t: $0k-$10k
     - key: salary.0_10.short
@@ -50,211 +50,210 @@ translations:
     - key: salary.100_200.short
       t: $100k-$200k
     - key: salary.200_more.long
-      t: more than $200k
+      t: более, чем $200k
     - key: salary.200_more.short
       t: $200k+
     - key: salary.axis_legend
-      t: Salary Range
+      t: Диапазон зарплат
 
     # years of experience
     - key: years-of-experience.less_than_1.long
-      t: Less than one year
+      t: Меньше одного года
     - key: years-of-experience.less_than_1.short
-      t: '<1 year'
+      t: '<1 года'
     - key: years-of-experience.1_2.long
-      t: 1 to 2 years
+      t: от 1 до 2 лет
     - key: years-of-experience.1_2.short
-      t: 1~2 years
+      t: 1~2 года
     - key: years-of-experience.2_5.long
-      t: 2 to 5 years
+      t: от 2 до 5 лет
     - key: years-of-experience.2_5.short
-      t: 2~5 years
+      t: 2~5 лет
     - key: years-of-experience.5_10.long
-      t: 5 to 10 years
+      t: от 5 до 10 лет
     - key: years-of-experience.5_10.short
-      t: 5~10 years
+      t: 5~10 лет
     - key: years-of-experience.10_20.long
-      t: 10 to 20 years
+      t: от 10 до 20 лет
     - key: years-of-experience.10_20.short
-      t: 10~20 years
+      t: 10~20 лет
     - key: years-of-experience.more_than_20.long
-      t: More than 20 years
+      t: Более 20 лет
     - key: years-of-experience.more_than_20.short
-      t: '>20 years'
+      t: '>20 лет'
     - key: years-of-experience.axis_legend
-      t: Years of Experience
+      t: Лет опыта
 
     # company size
     - key: company-size.1.long
-      t: One employee
+      t: Один сотрудник
     - key: company-size.1.short
-      t: one
+      t: Один
     - key: company-size.1_5.long
-      t: 1 to 5 employees
+      t: от 1 до 5 сотрудников
     - key: company-size.1_5.short
       t: 1~5
     - key: company-size.5_10.long
-      t: 5 to 10 employees
+      t: от 5 до 10 сотрудников
     - key: company-size.5_10.short
       t: 5~10
     - key: company-size.10_20.long
-      t: 10 to 20 employees
+      t: от 10 до 20 сотрудников
     - key: company-size.10_20.short
       t: 10~20
     - key: company-size.20_50.long
-      t: 20 to 50 employees
+      t: от 20 до 50 сотрудников
     - key: company-size.20_50.short
       t: 20~50
     - key: company-size.50_100.long
-      t: 50 to 100 employees
+      t: от 50 до 100 сотрудников
     - key: company-size.50_100.short
       t: 50~100
     - key: company-size.100_1000.long
-      t: 100 to 1000 employees
+      t: от 100 до 1000 сотрудников
     - key: company-size.100_1000.short
       t: 100~1000
     - key: company-size.more_than_1000.long
-      t: More than 1000 employees
+      t: Более 1000 сотрудников
     - key: company-size.more_than_1000.short
       t: 1000+
     - key: company-size.axis_legend
-      t: Number of Employees
+      t: Количество сотрудников
 
     # gender
     - key: gender.female
-      t: Female
+      t: Девушка
     - key: gender.male
-      t: Male
+      t: Мужчина
     - key: gender.non_binary
-      t: Non-Binary/Third Gender
+      t: Не подхожу под категории
     - key: gender.prefer_not_to_say
-      t: Prefer not to say
+      t: Предпочитаю не говорить
 
     # sources
     - key: sources.other_unknown
-      t: Other/Unknown
+      t: Другое/Не знаю
 
     # javascript proficiency
     - key: block.title.javascript-proficiency
-      t: JavaScript Proficiency
+      t: Владение JavaScript
     - key: block.description.javascript-proficiency
-      t: How proficient are you at JavaScript development?
+      t: Как ты оцениваешь свой уровень владения JavaScript?
     - key: javascript-proficiency.axis_legend
-      t: JavaScript Proficiency
+      t: Владение JavaScript
     - key: javascript-proficiency.none.short
-      t: None
+      t: Никак
     - key: javascript-proficiency.none.long
-      t: I am not able to write any JavaScript
+      t: Совсем не умею писать JavaScript
     - key: javascript-proficiency.short_simple_javascript.short
-      t: Beginner
+      t: Новичок
     - key: javascript-proficiency.short_simple_javascript.long
-      t: I can write short, simple JavaScript or jQuery statements
+      t: Могу писать короткие, простые Javascript или jQuery скрипты
     - key: javascript-proficiency.existing_codebases_using_modern_frameworks.short
-      t: Intermediate
+      t: Средний
     - key: javascript-proficiency.existing_codebases_using_modern_frameworks.long
-      t: I can work on existing front-end codebases using modern frameworks (React, Vue, etc.)
+      t: Могу работать над существующими кодовыми базами, используя современные фрэймворки (React, Vue, etc.)
     - key: javascript-proficiency.advanced_front_end_patterns.short
-      t: Advanced
+      t: Продвинутый
     - key: javascript-proficiency.advanced_front_end_patterns.long
-      t: Can handle advanced front-end patterns (state management, data loading, etc.)
+      t: Могу применять продвинутые frontend паттерны (state management, data loading, и др.)
     - key: javascript-proficiency.entire_codebases_from_scratch.short
-      t: Expert
+      t: Эксперт
     - key: javascript-proficiency.entire_codebases_from_scratch.long
-      t: Can architecture entire front-end codebases from scratch
+      t: Могу заархитектурить frontend приложение целиком с нуля
 
     # backend proficiency
     - key: block.title.backend-proficiency
-      t: Back-end Proficiency
+      t: Владение Back-end
     - key: block.description.backend-proficiency
-      t: How proficient are you at back-end development?
+      t: Как ты оцениваешь свой уровень владения backend разработкой?
     - key: backend-proficiency.axis_legend
-      t: Back-End Proficiency
+      t: Владение Back-end
     - key: backend-proficiency.none.short
-      t: None
+      t: Никак
     - key: backend-proficiency.none.long
-      t: I am not able to handle any back-end work
+      t: Не могу выполнять работу backend разработчика
     - key: backend-proficiency.able_to_setup_cms_or_site_generator.short
-      t: Beginner
+      t: Новичок
     - key: backend-proficiency.able_to_setup_cms_or_site_generator.long
-      t: I can set up all-in-one CMSs (WordPress, etc.) or static site generators (Jekyll, etc.)
+      t: Могу настроить 'всё в одном' CMSs (WordPress, etc.) или генератор статических сайтов (Jekyll, etc.)
     - key: backend-proficiency.able_to_use_existing_frameworks.short
-      t: Intermediate
+      t: Средний
     - key: backend-proficiency.able_to_use_existing_frameworks.long
-      t: I can develop apps using pre-existing frameworks (Rails, Laravel, etc.)
+      t: Могу разрабатывать приложения, используя существующие фрэймворки (Rails, Laravel, etc.)
     - key: backend-proficiency.able_to_setup_from_scratch.short
-      t: Advanced
+      t: Продвинутый
     - key: backend-proficiency.able_to_setup_from_scratch.long
-      t: I can set up an entire back-end from scratch (Go, Node, etc.)
+      t: Могу настроить весь backend с нуля (Go, Node, etc.)
 
     # job title
     - key: job-title.front_end_dev.short
-      t: Front-end Developer
+      t: Frontend разработчик
     - key: job-title.front_end_dev.long
-      t: Front-end Developer/Engineer
+      t: Frontend разработчик
     - key: job-title.full_stack_dev.short
-      t: Full-stack Developer
+      t: Full-stack разработчик
     - key: job-title.full_stack_dev.long
-      t: Full-stack Developer/Engineer
+      t: Full-stack разработчик
     - key: job-title.web_designer.short
-      t: Web Designer
+      t: Веб-дизайнер
     - key: job-title.web_designer.long
-      t: Web Designer
+      t: Веб-дизайнер
     - key: job-title.ux_designer.short
-      t: UX Designer
+      t: UX дизайнер
     - key: job-title.ux_designer.long
-      t: UX Designer
+      t: UX дизайнер
     - key: job-title.ui_designer.short
-      t: UI Designer
+      t: UI дизайнер
     - key: job-title.ui_designer.long
-      t: UI Designer
+      t: UI дизайнер
     - key: job-title.back_end_dev.short
-      t: Back-end Developer
+      t: Backend разработчик
     - key: job-title.back_end_dev.long
-      t: Back-end Developer/Engineer
+      t: Backend разработчик
 
     # other
     - key: block.title.participation-by-country
-      t: Participation by Country
+      t: Страны, принявшие участие
     - key: block.description.participation-by-country
-      t: Which proportion of survey respondents came from each country. 
+      t: Части респондентов, распределённые по странам. 
     - key: block.title.salary
-      t: Salary
+      t: Зарплаты
     - key: block.description.salary
-      t: Yearly salary in USD.
+      t: Годовая зарплата в долларах.
     # - key: block.title.salary-per-country
-    #   t: Average Salary per Country
+    #   t: Средняя зарплата в каждой стране
     # - key: block.description.salary-per-country
-    #   t: Average Salary per Country.
+    #   t: Средняя зарплата в каждой стране.
     - key: block.title.years-of-experience
-      t: Years of Experience
+      t: Лет опыта
     - key: block.description.years-of-experience
-      t: How long you've been writing CSS.
+      t: Как долго ты писал CSS.
     - key: block.title.company-size
-      t: Company Size
+      t: Размер компании
     # - key: block.description.company-size
     #   t: Company size breakdown.
     - key: block.title.gender
-      t: Gender
+      t: Гендер
     - key: block.description.gender
-      t: Respondents gender.
+      t: Гендер респондентов.
     - key: block.title.source
-      t: Source
+      t: Источники
     - key: block.description.source
       t: >
-          How participants found out about the survey (aggregation of self-reported answers and 
-          referrer tracking).
+          Как участники узнали об исследовании (данные собраны как из ответов, так и из отслеживаемых переходов)
 
-          
-          **State of JS** indicates subscribers from our previous JavaScript surveys,
-          **Announcement** corresponds to our official announcement post on [FreeCodeCamp](https://www.freecodecamp.org), 
-          and **Word of Mouth** regroups sources such as Slack, friends, co-workers, etc.
+
+          **State of JS** обозначает подписчиков из нашего предыдущего, JavaScript исследования,
+          **Announcement** соответствует нашему официальному объявлению на [FreeCodeCamp](https://www.freecodecamp.org), 
+          и **Word of Mouth** объединяет такие ресурсы, как Slack, друзья, коллеги и т.д.
 
     - key: block.description.gender
-      t: Gender breakdown.
+      t: Разбиение по гендеру.
     - key: block.title.job-title
-      t: Job Title
+      t: Должность
     - key: block.description.job-title
-      t: How do you introduce yourself at parties?
+      t: Как ты представляешься на вечеринках?
 
     ###########################################################################
     # Features
