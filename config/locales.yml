@@ -6,7 +6,7 @@
 #   label: Français
 - locale: zh-TW
   path: tw
-  label: 中文
+  label: 繁體中文
 - locale: pl-PL
   path: pl
   label: Polish
